@@ -1,6 +1,10 @@
 #Martin O'Hanlon
 #www.stuffaboutcode.com
 #Astro Pi Snake
+#====================================================
+#Modified by Raynard
+#For the snake can go through the walls now
+#raynard@rasenn.com
 from random import randint
 from astro_pi import AstroPi
 from time import sleep
